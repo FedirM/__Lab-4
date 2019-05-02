@@ -1,0 +1,40 @@
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\TestProject.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\TestProject.pdb
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\RB-Tree.exe
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\RB-Tree.pdb
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\RB-Tree.exe.config
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\MVS_Projects\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\MVS_Projects\RB-Tree\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\MVS_Projects\RB-Tree\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\MVS_Projects\RB-Tree\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\MVS_Projects\RB-Tree\TestProject\obj\Debug\TestProject.dll
+C:\MVS_Projects\RB-Tree\TestProject\obj\Debug\TestProject.pdb
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\TestProject.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\TestProject.pdb
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\RB-Tree.exe
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\RB-Tree.pdb
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\RB-Tree.exe.config
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\obj\Debug\TestProject.dll
+\\vmware-host\Shared Folders\Shit\RB-Tree\TestProject\obj\Debug\TestProject.pdb
